@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h1 {
+    font-weight: 600;
+}
+
+.container p {
+    font-weight: 400;
+}
